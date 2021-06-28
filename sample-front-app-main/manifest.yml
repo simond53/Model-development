@@ -1,0 +1,5 @@
+applications:
+  - name: sample-frontend-app
+    random-route: true
+    memory: 128M
+  
